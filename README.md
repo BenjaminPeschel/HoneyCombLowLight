@@ -3,7 +3,7 @@ A full pipeline for removing the honey comb artifacts from nasal endoscopy and l
 You can read up on the method in the following Journal of Voice (J Voice) paper:
 "Reducing Fiber-Induced Honeycomb Artifacts and Low-Light Noise in Nasal High-Speed Video Laryngoscopy: A Fast, Deterministic, Open-Source Approach"
 https://www.sciencedirect.com/science/article/pii/S0892199726002730
-# Figures from the Paper
+# Figures from the paper
 The figures from the paper are not visibel in the current "In Press" version, so they can be inspected and downloaded here:
 https://faubox.rrze.uni-erlangen.de/getlink/fiQBc791rqoKhUNzBZULMu/SupplementalVideosJVoice
 # Notes
